@@ -3,15 +3,9 @@ sffdfdf\
 
 bl
 
-* short
-* int
-* long
-18446744073709551616 can't be fitted anywhere.
--18446744073709551616 can't be fitted anywhere.
-18446744073709551615 can't be fitted anywhere.
--18446744073709551616 can't be fitted anywhere.
-32768 can be fitted in:
-* int
+
+
+aaaaaaaa
 * long
 -32768 can be fitted in:
 * short
